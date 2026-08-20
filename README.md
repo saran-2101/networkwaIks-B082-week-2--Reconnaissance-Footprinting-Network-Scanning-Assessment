@@ -1,0 +1,1 @@
+# networkwaIks-B082-week-2--Reconnaissance-Footprinting-Network-Scanning-Assessment
