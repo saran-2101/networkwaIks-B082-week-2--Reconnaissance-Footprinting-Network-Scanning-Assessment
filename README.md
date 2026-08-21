@@ -3,7 +3,7 @@
 **Program:** Cybersecurity & Ethical Hacking Internship, Networkwalks (Batch B082)
 **Modules:** W2-PM2 (Exploit Database) · W2-PM3 (Maltego) · W2-PM5 (Zenmap Scanning)
 **Author:** Saran S — [LinkedIn](https://www.linkedin.com/in/saran-s21)
-**Date:** 17 August 2026
+**Date:** 20 August 2026
 
 ---
 
