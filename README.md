@@ -58,10 +58,14 @@ No exploitation was performed. This project is strictly an information-gathering
 ## Repository contents
 
 ```
-├── README.md                 # This file
-├── report/                   # Full PDF report with methodology and evidence
-└── screenshots/               # Evidence captured during each activity
+├── Maltego/                          # Screenshots and install/setup guide for Maltego
+├── Nmap/                             # Screenshots and install/setup guide for Nmap
+├── Exploit-DB/                       # Screenshots and usage notes for Exploit Database
+├── README.md                         # This file
+└── W2-PM-FINAL - Sample Report v2.pdf # Full PDF report with methodology and evidence
 ```
+
+Each tool folder (`Maltego/`, `Nmap/`, `Exploit-DB/`) contains the screenshots captured during that activity, along with a short PDF walking through how the tool was downloaded and set up.
 
 ## Liability disclaimer
 
